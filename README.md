@@ -10,6 +10,7 @@ Though there are several tools available for visualizations in practice, this bo
 This reference guide is suitable for any beginner who is interested to learn Visualization in Python.
 <br><br>
 
+
 ## Machine Learning Project Guidelines - For Beginners
 This book can be used as a guideline (or) a reference (or) an aid to develop and deliver ML projects. 
 This book talks about only very few commonly used ML algorithms. Several ML algorithms are already available and several others are being developed and published from time to time as well that are outside the scope of this book. 
